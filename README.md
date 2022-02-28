@@ -1,5 +1,9 @@
-### Hi there 👋
+### G'day M8 👋
 
+- Sometimes maintainer of [gosec](https://github.com/securego/gosec).
+- 🏳️‍🌈 He / him.
+- Dad 3 x 👶
+- 📫 gcmurphy@pm.me
 <!--
 **gcmurphy/gcmurphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
