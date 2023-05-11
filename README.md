@@ -1,9 +1,9 @@
-### G'day M8 👋
+### G'day M8 👋 🇦🇺
 
 #### TL;DR
 
 - Sometimes maintainer of [gosec](https://github.com/securego/gosec).
-- 🏳️‍🌈 He / him.
+- He / him.
 - Dad 3 x 👶
 - 📫 gcmurphy@pm.me
 
